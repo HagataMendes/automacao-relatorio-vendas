@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Bases de dados baixadas
+*.xlsx
+*.csv
+
+# Sistema / editor
+.vscode/
+.DS_Store
+Thumbs.db
